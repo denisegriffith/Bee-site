@@ -1,0 +1,41 @@
+
+---
+
+## 🚀 Deployment (Netlify)
+1. Create a free account at [Netlify](https://app.netlify.com/).  
+2. Click **“New Site from Git”** → choose **GitHub** → select this repo.  
+3. Build settings:  
+   - **Build command:** *(leave empty)*  
+   - **Publish directory:** `/`  
+4. Deploy site.  
+5. After deploy, Netlify will give you a live URL like:  
+   `https://your-site.netlify.app`
+
+---
+
+## 🔑 Enable Editing (Netlify CMS)
+1. In Netlify, go to **Site Settings → Identity → Enable Identity**.  
+2. Under **Identity → Services**, enable **Git Gateway**.  
+3. Add yourself as a user.  
+4. Go to `https://your-site.netlify.app/admin`  
+   - Log in with the email you added.  
+   - You can now edit homepage + products from a simple dashboard!  
+
+---
+
+## ✨ Editing Content
+- **Homepage:** `content/home.md`  
+- **Products:** `content/products/*.json`  
+  - Each product has `title`, `price`, `description`, and `image`.  
+  - Add more `.json` files to add new products (e.g., figs, peaches, raspberries).  
+
+---
+
+## 📦 Future Plans
+- Turn on online payments (via Shopify or Stripe).  
+- Add shipping options and seasonal fruit catalog.  
+- Expand blog with bee care, recipes, and farm updates.
+
+---
+
+### 🐝 Bee good. Bee natural. Bee-lightful.
