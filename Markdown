@@ -1,0 +1,16 @@
+# 🍯 Bee-lightful Honey Website
+
+This is the source code for the **Bee-lightful Honey** website — a small-batch honey and seasonal fruit shop powered by bees 🐝.  
+It’s built as a static site with [Netlify CMS](https://www.netlifycms.org/), so you can **log in and edit content without coding**.
+
+---
+
+## 🌐 Features
+- Static site: fast, simple, and secure.
+- Netlify CMS: edit homepage, products, and content through a friendly admin panel.
+- Mobile-friendly design.
+- Ready for e-commerce expansion (currently “browse only” until payments are enabled).
+
+---
+
+## 📂 Project Structure
