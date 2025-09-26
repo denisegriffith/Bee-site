@@ -1,0 +1,10 @@
+<!-- Honey Products Section -->
+<section id="products">
+  <h1>Our Honey Collection</h1>
+  <div class="products-container">
+
+    <!-- Product 1 -->
+    <div class="product-card">
+      <img src="images/raw_honey_8oz.jpg" alt="8oz Raw Honey Jar" class="product-image">
+      <h2 class="product-name">8oz Raw Honey Jar</h2>
+      <p class="product-description">Pure, unfiltered, and locally sourced raw honey. Perfec
